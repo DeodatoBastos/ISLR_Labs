@@ -130,3 +130,6 @@ dmypy.json
 
 # Data from csv files
 data/
+
+# vs code configurations
+.vscode/
